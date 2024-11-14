@@ -377,7 +377,6 @@ td {
 thead {
   font-weight: bold;
   text-transform: uppercase;
-  background: url(bg-pattern-green.png) repeat;
 }
 
 tbody tr:nth-child(even) {
