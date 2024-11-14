@@ -90,7 +90,6 @@ aside > * {
   color: rgba(0,0,0,.55);
   text-align: left;
   text-transform: uppercase;
-  background: url(bg-pattern-green.png) repeat;
   -webkit-box-shadow: 2px 2px 5px rgba(50, 50, 50, .75);
      -moz-box-shadow: 2px 2px 5px rgba(50, 50, 50, .75);
           box-shadow: 2px 2px 5px rgba(50, 50, 50, .75);
@@ -378,7 +377,6 @@ td {
 thead {
   font-weight: bold;
   text-transform: uppercase;
-  background: url(bg-pattern-green.png) repeat;
 }
 
 tbody tr:nth-child(even) {
