@@ -125,7 +125,6 @@ ul.nav {
 
 ul.nav.sub {
   display: none;
-  background/*\**/: url(img/bg/black_30.png)\9;
   background-color: rgba(0,0,0,.3);
 }
 
@@ -154,10 +153,7 @@ ul.nav li:hover {
 }
 
 ul.nav li.active {
-  background/*\**/: url(img/bg/white_20.png)\9;
   background-color: rgba(255,255,255,.1);
-
-  *background: url(img/bg/white_20.png);
 }
 
 ul.nav a,
