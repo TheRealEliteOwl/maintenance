@@ -146,10 +146,8 @@ ul.nav.sub li {
 
 ul.nav li:hover {
   padding-left: 2.5em;
-  background/*\**/: url(img/bg/white_20.png)\9;
   background-color: rgba(255,255,255,.2);
 
-  *background: url(img/bg/white_20.png);
 }
 
 ul.nav li.active {
